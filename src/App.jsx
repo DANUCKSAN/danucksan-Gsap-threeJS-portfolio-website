@@ -5,7 +5,8 @@ import About from './sections/About'
 import Projects from './sections/Projects'
 import Experience from './sections/Experience'
 import Footer from './sections/Foooter'
-import Contact from './sections/contact'
+import Contact from './sections/Contact'
+
 
 
 const App = () => {
