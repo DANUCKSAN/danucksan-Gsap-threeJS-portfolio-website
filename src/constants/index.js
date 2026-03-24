@@ -104,7 +104,7 @@ export const myProjects = [
     subdesc:
   'Built using Next.js, Tailwind CSS, shadcn/ui, Clerk authentication, and Stream video and chat APIs, Zuno delivers reliable real-time communication with secure user management and a responsive interface. The project demonstrates my ability to develop production-ready full-stack applications using modern technologies and best practices.',
     href: 'https://github.com/DANUCKSAN/zuno-video-conferencing-saas-app',
-    texture: '/textures/project/project3.mp4',
+    texture: '/textures/project/project6.mp4',
     logo: '/assets/zuno.svg',
     logoStyle: {
       backgroundColor: '#60f5a1',
