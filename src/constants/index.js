@@ -77,8 +77,48 @@ export const myProjects = [
     tags: [
       {
         id: 1,
-        name: 'React.js',
-        path: '/assets/react.svg',
+        name: 'next.js',
+        path: '/assets/next-js.svg',
+      },
+      {
+        id: 2,
+        name: 'TailwindCSS',
+        path: 'assets/tailwindcss.png',
+      },
+      {
+        id: 3,
+        name: 'TypeScript',
+        path: '/assets/typescript.png',
+      },
+      {
+        id: 4,
+        name: 'Framer Motion',
+        path: '/assets/framer.png',
+      },
+    ],
+  },
+   {
+    title: 'Zuno - a video conferencing platform',
+    title: 'Zuno — A Modern Video Conferencing Platform',
+    desc: 'Zuno is a real-time video conferencing application that enables users to connect seamlessly through secure video meetings, live chat, and user-friendly collaboration features. The platform is designed with performance, scalability, and a modern user experience in mind.',
+    subdesc:
+  'Built using Next.js, Tailwind CSS, shadcn/ui, Clerk authentication, and Stream video and chat APIs, Zuno delivers reliable real-time communication with secure user management and a responsive interface. The project demonstrates my ability to develop production-ready full-stack applications using modern technologies and best practices.',
+    href: 'https://github.com/DANUCKSAN/zuno-video-conferencing-saas-app',
+    texture: '/textures/project/project3.mp4',
+    logo: '/assets/zuno.svg',
+    logoStyle: {
+      backgroundColor: '#60f5a1',
+      background:
+        'linear-gradient(0deg, #60F5A150, #60F5A150), linear-gradient(180deg, rgba(255, 255, 255, 0.9) 0%, rgba(208, 213, 221, 0.8) 100%)',
+      border: '0.2px solid rgba(208, 213, 221, 1)',
+      boxShadow: '0px 0px 60px 0px rgba(35, 131, 96, 0.3)',
+    },
+    spotlight: '/assets/spotlight5.png',
+    tags: [
+      {
+        id: 1,
+        name: 'next.js',
+        path: '/assets/next-js.svg',
       },
       {
         id: 2,
@@ -112,12 +152,13 @@ export const myProjects = [
       border: '0.2px solid rgba(208, 213, 221, 1)',
       boxShadow: '0px 0px 60px 0px rgba(35, 131, 96, 0.3)',
     },
+    
     spotlight: '/assets/spotlight1.png',
     tags: [
       {
         id: 1,
-        name: 'React.js',
-        path: '/assets/react.svg',
+        name: 'next.js',
+        path: '/assets/next-js.svg',
       },
       {
         id: 2,
